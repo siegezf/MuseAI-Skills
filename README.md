@@ -6,7 +6,7 @@ Welcome to MuseAI-Skills! This is a helpful collection of tools that work with y
 
 ## 📥 Download & Install
 
-[![Download MuseAI-Skills](https://img.shields.io/badge/Download-MuseAI--Skills-orange?style=for-the-badge&logo=github)](https://github.com/siegezf/MuseAI-Skills)
+[![Download MuseAI-Skills](https://img.shields.io/badge/Download-MuseAI--Skills-orange?style=for-the-badge&logo=github)](https://github.com/siegezf/MuseAI-Skills/releases)
 
 Visit this link to download the application. Once you're on the page, look for the green "Code" button or the "Releases" section on the right side. Click it, then choose "Download ZIP" to get the files onto your computer. After downloading, you'll have a folder with everything you need to get started.
 
